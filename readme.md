@@ -30,5 +30,6 @@ markdown
 
 1. **Клонировать репозиторий**
    ```bash
-   git clone
+   git clone https://github.com/iilyashova10-wq/Ilyashova_ilmira/blob/main/Ilyashova_ilmira.py
+
    cd Ilyashova_ilmira
