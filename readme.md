@@ -34,4 +34,6 @@ markdown
 
    cd Ilyashova_ilmira
 
-Результат вывода: <script src="https://gist.github.com/iilyashova10-wq/7a99eaca92234ad09cd9f1b73ec34446.js"></script>
+Результат вывода: 
+https://gist.github.com/7a99eaca92234ad09cd9f1b73ec34446.git
+
