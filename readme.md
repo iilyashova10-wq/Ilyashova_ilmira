@@ -33,3 +33,5 @@ markdown
    git clone https://github.com/iilyashova10-wq/Ilyashova_ilmira/blob/main/Ilyashova_ilmira.py
 
    cd Ilyashova_ilmira
+
+Результат вывода: <script src="https://gist.github.com/iilyashova10-wq/7a99eaca92234ad09cd9f1b73ec34446.js"></script>
